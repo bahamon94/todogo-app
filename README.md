@@ -1,4 +1,5 @@
-# todogo-app
+# todogo-app 
+Brayan Bahamon
 
 ## Project setup
 ```
